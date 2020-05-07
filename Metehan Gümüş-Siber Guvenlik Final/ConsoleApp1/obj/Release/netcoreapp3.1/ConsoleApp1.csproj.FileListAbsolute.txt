@@ -1,0 +1,26 @@
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.exe
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.deps.json
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.dll
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.pdb
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.dll
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.pdb
+E:\programlama\csharp\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.exe
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.deps.json
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.dll
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.pdb
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.dll
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.pdb
+E:\programlama\csharp\Siber Guvenlik Final\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
